@@ -2,10 +2,11 @@ import type { Site, Page, Links, Socials } from "@types"
 
 // Global
 export const SITE: Site = {
-  TITLE: "Astro Sphere",
-  DESCRIPTION: "Welcome to Astro Sphere, a portfolio and blog for designers and developers.",
-  AUTHOR: "Mark Horn",
+  TITLE: "Ikhode Arena",
+  DESCRIPTION: "Explore the world of games, coding, and technology at Ikhode Arena. Join us for insightful articles, tutorials, and the latest updates in tech.",
+  AUTHOR: "SOY TET",
 }
+
 
 // Work Page
 export const WORK: Page = {
